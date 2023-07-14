@@ -39,6 +39,7 @@ struct ContentView: View {
                Text(fact)
                    .font(.title2)
                    .fontWeight(.semibold)
+               
            }
        }
 
